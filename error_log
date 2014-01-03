@@ -1,0 +1,1 @@
+[03-Jan-2014 02:08:07] PHP Warning:  file_put_contents(logs/github.txt) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home4/amarhost/public_html/hello/kuldeep/test_git.php on line 12
